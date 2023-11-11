@@ -255,10 +255,12 @@ function Couple() {
                                 Professsion: <strong>Software Engineer,</strong>
                             </p> */}
               <p className="mt-2 mt-lg-3">
-                Paternal Grand D/O Janab <strong>G. Mahaboob Sahab,</strong>
+                Paternal Grand D/O Janab{" "}
+                <strong>G. Mahaboob Sahab(Late),</strong>
               </p>
               <p className="mt-1 mt-lg-2">
-                Maternal Grand D/O Janab <strong>M. Mahboob Sahab.</strong>
+                Maternal Grand D/O Janab{" "}
+                <strong>M. Mahboob Sahab(Late).</strong>
               </p>
               {/* <p className="mt-1 mt-lg-2">
                                 H.No.: 24/90, Near Saheb Bowdi,  
