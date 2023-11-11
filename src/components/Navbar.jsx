@@ -60,7 +60,7 @@ function Navbar() {
                     data-aos="slide-right"
                     data-aso-duration="1500"
                 >
-                    SSV
+                    Hazi
                     <FontAwesomeIcon
                         icon={faHeart}
                         className="icon"
