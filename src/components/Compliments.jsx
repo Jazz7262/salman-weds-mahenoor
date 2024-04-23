@@ -12,7 +12,7 @@ function Compliments() {
       <h5>T. Haji Ismail,</h5>
       <h5>K. Mohammed Taher,</h5>
       <h5>T. Mohammed Ziauddin(Ziya),</h5> */}
-      <h5>Gadde Family,</h5>
+      {/* <h5>Gadde Family,</h5> */}
       <h5>Near & Dear - Relatives & Friends.</h5>
     </section>
   );
