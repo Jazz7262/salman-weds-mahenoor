@@ -5,46 +5,42 @@ import { loadFull } from "tsparticles";
 import timelineParticlesConfig from "../ts-particles-config-files/timeline-particles-config";
 
 function Timeline() {
-    const particlesInit = useCallback(async (engine) => {
-        await loadFull(engine);
-    }, []);
+  const particlesInit = useCallback(async (engine) => {
+    await loadFull(engine);
+  }, []);
 
-    return (
-        <section id="timeline">
-            <Particles
-                id="timeline-ts-particles"
-                init={particlesInit}
-                options={timelineParticlesConfig}
-            ></Particles>
-            <div className="single-timeline">
-                <h1 className="inshaallaah">Inshaallaah ...</h1>
+  return (
+    <section id="timeline">
+      <Particles
+        id="timeline-ts-particles"
+        init={particlesInit}
+        options={timelineParticlesConfig}
+      ></Particles>
+      <div className="single-timeline">
+        <h1 className="inshaallaah">Inshaallaah ...</h1>
 
-                <div
-                    className="wrapper"
-                    data-aos="fade-up"
-                    data-aos-delay="100"
-                >
-                    <div className="content">
-                        <h1>Engagement Ceremony</h1>
-                        <p>
-                            On Saturday, 18<sup>th</sup> November, 2023,
-                            <br />
-                            04<sup>th</sup> Jamaad-il-awwal, 1445 Hijri,
-                            <br />
-                            After Namaaz -e- Zohar,
-                            <br />
-                            Time: 02:00 PM.
-                        </p>
-                        <h2>Venue:</h2>
-                        <p>
-                            Danish Function Hall,
-                            <br /> Near By-pass road, 
-                            <br /> Adoni.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <div className="wrapper" data-aos="fade-up" data-aos-delay="100">
+          <div className="content">
+            <h1>Engagement Ceremony</h1>
+            <p>
+              On Wednesday, 08<sup>th</sup> May, 2024,
+              <br />
+              29<sup>th</sup> Shawwal -ul- Mukarram, 1445 Hijri,
+              <br />
+              After Namaaz -e- Zohar,
+              <br />
+              Time: 01:45 PM.
+            </p>
+            <h2>Venue:</h2>
+            <p>
+              Eidgah Function Hall,
+              {/* <br /> Near By-pass road, */}
+              <br /> Guntakal - 515 801.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
 
     //     <section id="timeline">
     //         <Particles
@@ -105,7 +101,7 @@ function Timeline() {
     //                                 <br /> Near Yemmiganur By-pass Road,
     //                                 <br /> Tirumala Nagar,
     //                                 <br /> Adoni.
-    //                             </p> 
+    //                             </p>
 
     //                             <h2>Lunch Follows:</h2>
     //                             <p>
@@ -219,7 +215,7 @@ function Timeline() {
     //             </div>
     //         </div>
     //     </section>
-     );
+  );
 }
 
 export default Timeline;

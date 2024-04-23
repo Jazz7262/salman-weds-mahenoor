@@ -79,7 +79,7 @@ function CustomModel1() {
               className="line-divider mb-4"
             />
             <h4 className="from">From:</h4>
-            <h4 className="invitor-name mb-4">Mr. & Mrs. G. Khaleel Sahab</h4>
+            <h4 className="invitor-name mb-4">Mr. & Mrs. G. Abdul Ahad</h4>
             <button
               className="btn btn-primary open-button"
               onClick={handleClick}
@@ -119,57 +119,57 @@ function CustomModel1() {
             className="card-corner bottom-left"
           /> */}
 
-<img
-                    className="mandal top-1"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-2"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-3"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-4"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-5"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-1"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-2"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-3"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
+          <img
+            className="mandal top-1"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-2"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-3"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-4"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-5"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-1"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-2"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-3"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
 
-                <img
-                    className="mandal bottom-4"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-5"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
+          <img
+            className="mandal bottom-4"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-5"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
         </div>
       </div>
     </section>

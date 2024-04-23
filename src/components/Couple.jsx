@@ -120,7 +120,7 @@ function Couple() {
             </div>
             <div className="info groom-info">
               <h3>
-                D. Hazi Malang
+                G. Salmman Hussain
                 {/* <sub>MCA,</sub> */}
               </h3>
               {/* <p className="mt-2 mt-lg-3">
@@ -129,15 +129,15 @@ function Couple() {
                             </p>
                             <p className="mt-1 mt-lg-2"> at Alur.</p> */}
               <p className="mt-2 mt-lg-3">
-                S/O Janab <strong>D. Usman Basha Sahab,</strong>
+                S/O Janab <strong>G. Abdul Ahad,</strong>
               </p>
               {/* <p className="mt-1 mt-lg-2">
                                 Paternal Grand S/O Janab{" "}
                                 <strong>B. Nabi Sahab(Late),</strong>{" "}
                             </p> */}
-              <p className="mt-1 mt-lg-2">Residence: #20/330, Vekannapeta,</p>
+              {/* <p className="mt-1 mt-lg-2">Residence: #20/330, Vekannapeta,</p>
 
-              <p className="mt-1 mt-lg-2">Near Moulana Masjid, Adoni.</p>
+              <p className="mt-1 mt-lg-2">Near Moulana Masjid, Adoni.</p> */}
 
               {/* <p className="mt-1 mt-lg-2">
                                 Maternal Grand S/O Janab{" "}
@@ -248,25 +248,24 @@ function Couple() {
             </div>
             <div className="info bride-info">
               <h3>
-                Noor -e- Aa'yin
+                A. Mahenoor
                 {/* <sub>(Moulvi),</sub> */}
               </h3>
               {/* <p className="mt-2 mt-lg-3">
                                 Professsion: <strong>Software Engineer,</strong>
                             </p> */}
               <p className="mt-2 mt-lg-3">
-                Paternal Grand D/O Janab{" "}
-                <strong>G. Mahaboob Sahab(Late),</strong>
+                D/O <strong>A. Sadiq Vali,</strong>
               </p>
-              <p className="mt-1 mt-lg-2">
+              {/* <p className="mt-1 mt-lg-2">
                 Maternal Grand D/O Janab{" "}
                 <strong>M. Mahboob Sahab(Late).</strong>
-              </p>
+              </p> */}
               {/* <p className="mt-1 mt-lg-2">
                                 H.No.: 24/90, Near Saheb Bowdi,  
                             </p>
                             <p className="mt-1 mt-lg-2">KowdiyalPet, Adoni.</p> */}
-              {/* <p className="mt-1 mt-lg-2">Bellari.</p> */}
+              <p className="mt-1 mt-lg-2">Guntakal.</p>
               {/* <p className="mt-1 mt-lg-2">
                                 D/O <strong>Shaikh Nazeer Ahmed.</strong>
                             </p> */}
