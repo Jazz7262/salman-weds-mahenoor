@@ -120,7 +120,7 @@ function Couple() {
             </div>
             <div className="info groom-info">
               <h3>
-                G. Salmman Hussain
+                G. Salman Hussain
                 {/* <sub>MCA,</sub> */}
               </h3>
               {/* <p className="mt-2 mt-lg-3">
