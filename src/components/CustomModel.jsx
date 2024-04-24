@@ -71,7 +71,7 @@ function CustomModel1() {
         <div className="card-inner-wrapper">
           <div data-aos="zoom-out" className="card-content">
             <h1 className="card-title m-0">
-              Gadde Family's Engagement Ceremony Invitation
+              Gadday Family's Engagement Ceremony Invitation
             </h1>
             <img
               src="../assets/images/line-divider.png"
@@ -119,57 +119,57 @@ function CustomModel1() {
             className="card-corner bottom-left"
           /> */}
 
-<img
-                    className="mandal top-1"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-2"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-3"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-4"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal top-5"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-1"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-2"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-3"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
+          <img
+            className="mandal top-1"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-2"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-3"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-4"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal top-5"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-1"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-2"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-3"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
 
-                <img
-                    className="mandal bottom-4"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
-                <img
-                    className="mandal bottom-5"
-                    src="../assets/images/golden-mandal.png"
-                    alt="Wheel"
-                />
+          <img
+            className="mandal bottom-4"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
+          <img
+            className="mandal bottom-5"
+            src="../assets/images/golden-mandal.png"
+            alt="Wheel"
+          />
         </div>
       </div>
     </section>
